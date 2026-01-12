@@ -1,3 +1,4 @@
-## Update README for co-author
+Update README for co-author
 
-Co-authored-by: Papai Samui <friend@example.com> ##
+Co-authored-by: Papai Samui <friend@example.com>
+
